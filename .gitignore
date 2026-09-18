@@ -1,0 +1,24 @@
+# runtime config — never commit these, anywhere in the tree
+config.json
+plug.json
+wallets.txt
+update-check.json
+devices.json
+tinytuya.json
+snapshot.json
+tuya-raw.json
+*.ledger.json
+*.bak
+
+# the shipped examples are the exception
+!examples/plug.tuya.json
+!examples/plug.http.json
+!examples/plug.command.json
+!examples/wallets.txt
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+.DS_Store

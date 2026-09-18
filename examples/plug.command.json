@@ -1,0 +1,7 @@
+{
+  "name": "Miner",
+  "type": "command",
+  "on_cmd": "kasa --host 192.168.1.60 on",
+  "off_cmd": "kasa --host 192.168.1.60 off",
+  "status_cmd": "kasa --host 192.168.1.60 state | grep -q 'Device state: ON' && echo on || echo off"
+}

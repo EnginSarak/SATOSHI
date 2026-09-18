@@ -1,0 +1,5 @@
+# one wallet per line:  <name>  <zpub>
+# lines starting with # are ignored
+# chmod 600 this file once you put real keys in it
+
+# Cold    zpub6r................................your-key-here

@@ -1,0 +1,8 @@
+{
+  "name": "Miner",
+  "type": "tuya",
+  "id": "01234567890abcdef012",
+  "key": "aBcDeFgHiJkLmNoP",
+  "ip": "192.168.1.60",
+  "version": "3.3"
+}

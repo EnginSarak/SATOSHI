@@ -4,7 +4,7 @@
 
 # SATOSHI
 
-**A CLI for Bitcoin Core** · Version 1.0.1
+**A CLI for Bitcoin Core** · Version 1.0.0
 
 *See what's actually happening in your node. Chain, blocks, transactions, mempool, wallets and hardware, computed by the box you run it on.*
 
@@ -14,7 +14,7 @@
 ![Bitcoin Core](https://img.shields.io/badge/Bitcoin%20Core-31.1.0-F7931A?logo=bitcoin&logoColor=white)
 ![Electrs](https://img.shields.io/badge/Electrs-optional-6E7681)
 ![UmbrelOS](https://img.shields.io/badge/UmbrelOS-Raspberry%20Pi-8A2BE2)
-![Version](https://img.shields.io/badge/version-1.0.1-4C8EDA)
+![Version](https://img.shields.io/badge/version-1.0.0-4C8EDA)
 ![License](https://img.shields.io/badge/license-MIT-3FB950)
 
 </div>

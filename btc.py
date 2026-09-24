@@ -13,7 +13,7 @@ import threading
 import time
 import urllib.request
 
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 REPO = os.environ.get("BTC_REPO", "EnginSarak/SATOSHI")
 BRANCH = os.environ.get("BTC_BRANCH", "main")
 UPDATE_URL = f"https://raw.githubusercontent.com/{REPO}/{BRANCH}/btc.py"
